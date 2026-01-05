@@ -11,6 +11,11 @@ Following these instructions you will have a fully operational system where:
 This guide focuses **only on the technical setup and deployment** required to make the system ready for study use.  
 Study creation, participant workflows, and data processing are covered separately once setup is complete.
 
+
+## 📺 Repository Overview Video
+
+[![BehaviorTrace — Repository Overview](docs/images/video_thumbnail.png)](https://youtu.be/p5ERwq-JWYU)
+
 ---
 
 ## Table of Contents
